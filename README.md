@@ -1,1 +1,3 @@
-# landingpage
+PROJECT START (2025-05-11 13:40:08): 
+
+This is my attempt at the TOP Landing Page project. I'm going to try and keep it as close to the example as possible, as per the brief, and I'm not planning on confusing myself with using any extra external images at the moment. Flexbox has been the absolute bane of my life and I anticipate struggling immensely in getting the div's to do what I want them to, so I'm going to take it slowly and try my best. Planning to update here maybe midway through, but certaintly at the end when I either complete the project or butcher it beyond all recognition.
