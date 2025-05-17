@@ -7,6 +7,7 @@
 .header {
     display: flex;
     justify-content: space-between;
+    padding: 0px 150px;
 }
 
 ul {
@@ -22,4 +23,50 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.sectionone {
+    display: flex;
+    justify-content: space-between;
+    padding: 150px;
+    gap: 28px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    background-color: grey;
+    text-align: center;
+    margin: 0px;
+    padding: 120px 180px;
+}
+
+.subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.textcontainer {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+button {
+    max-width: 130px;
+    padding: 8px 20px;
+    background-color: #3882f6;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
 }

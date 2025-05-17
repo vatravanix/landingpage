@@ -1,3 +1,7 @@
 PROJECT START (2025-05-11 13:40:08): 
 
 This is my attempt at the TOP Landing Page project. I'm going to try and keep it as close to the example as possible, as per the brief, and I'm not planning on confusing myself with using any extra external images at the moment. Flexbox has been the absolute bane of my life and I anticipate struggling immensely in getting the div's to do what I want them to, so I'm going to take it slowly and try my best. Planning to update here maybe midway through, but certaintly at the end when I either complete the project or butcher it beyond all recognition.
+
+UPDATE (2025-05-17 18:34:08):
+
+I feel pretty satisfied with the small progress today. I haven't been able to get really started in a few days due to life, so it felt good to get stuck in today. Flexbox didn't nearly blow my brain as much as it seemed to before, which feels like incredible progress. I definitely feel like there are a number of areas on the page so far in terms of styling that could be tightened up to better match the example image, but I'm trying not to be too hard on myself. If I can get a full page that even slightly resembles the example, that'll feel like a HUGE win for me. The next section reminds me of the TOP plants info flexbox exercise, so I'm gonna review that before tackling the next section as I can't remember it very well at all. So far: feeling positive, and as if coding might actually be something I might be able to do (even in some small capacity). Crazy.
