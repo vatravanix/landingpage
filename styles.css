@@ -1,0 +1,25 @@
+* {
+    font-family: 'Roboto', Georgia, 'Times New Roman', Times, serif;
+    background-color: #1f2937;
+    color: #F9FAF8;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    gap: 18px;
+    align-items: center;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
