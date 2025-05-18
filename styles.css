@@ -78,3 +78,40 @@ button {
 
 /* Section Two - "Some random information" and four image
 placeholders along with four subtext captions */
+
+.sectiontwo {
+    background-color: #F9FAF8;
+}
+
+.infocontainer {
+    background-color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.imgbox {
+    width: 100px;
+    height: 100px;
+    background-color: #F9FAF8;
+    border: 5px solid #3882f6;
+    border-radius: 8px;
+    
+}
+
+.imgtext {
+    background-color: #F9FAF8;
+    color: gray;
+}
+
+.info {
+    background-color: #F9FAF8;
+}
+
+h2 {
+    background-color: #F9FAF8;
+    color: #1f2937;
+    text-align: center;
+    padding: 30px;
+}
+
