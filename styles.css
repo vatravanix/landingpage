@@ -4,6 +4,8 @@
     color: #F9FAF8;
 }
 
+/* Header and top links */
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -28,6 +30,9 @@ a {
 h1 {
     font-size: 24px;
 }
+
+/* Section One - "This website is awesome, subtext, sign  up button,
+large image placeholder */
 
 .sectionone {
     display: flex;
@@ -70,3 +75,6 @@ button {
     font-size: 20px;
     font-weight: 700;
 }
+
+/* Section Two - "Some random information" and four image
+placeholders along with four subtext captions */
