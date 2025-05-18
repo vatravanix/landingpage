@@ -81,13 +81,15 @@ placeholders along with four subtext captions */
 
 .sectiontwo {
     background-color: #F9FAF8;
+    padding:
 }
 
 .infocontainer {
     background-color: #F9FAF8;
     display: flex;
     justify-content: center;
-    gap: 52px;
+    gap: 50px;
+    padding: 50px;
 }
 
 .imgbox {
@@ -102,10 +104,15 @@ placeholders along with four subtext captions */
 .imgtext {
     background-color: #F9FAF8;
     color: gray;
+    text-align: center;
+    padding: 10px;
 }
 
 .info {
     background-color: #F9FAF8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 h2 {
@@ -115,3 +122,4 @@ h2 {
     padding: 30px;
 }
 
+/* Section Three - Inspiring quote */
