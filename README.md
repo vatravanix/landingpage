@@ -9,3 +9,7 @@ I feel pretty satisfied with the small progress today. I haven't been able to ge
 UPDATE (2025-05-18 23:33:06):
 
 Only made small incremental progress today, and CSS styling of second section remains incomplete, but very happy to have got the majority down at the very least. Hoping to get the final changes written in tomorrow for the section two img subtext. Turns out that even after reading over the TOP plants section again, this style of flexing is still giving me a read headache. Very much looking forward to moving on after the required tweaks are finished!
+
+UPDATE (2025-05-19 08:49:47):
+
+Managed to get a bit of code written up before work this morning to get the aligning of the subtext sorted. Still not happy with its sizing, and the boxes are far more spread out than in the example image, but I'm going to sort that under optional tweaking at the end and move on next to section three. I keep reading everywhere that when you're stuck, sometimes you need to put it all down and walk away for a bit. Well, turns out sleeping made everything a little clearer and I was able to see where the alignment issue was straight away. I can't get everything to do exactly what I want it to first try, but that's the learning process I guess. Still feeling positive!
