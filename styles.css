@@ -81,7 +81,7 @@ placeholders along with four subtext captions */
 
 .sectiontwo {
     background-color: #F9FAF8;
-    padding:
+    text-align: center;
 }
 
 .infocontainer {
@@ -104,7 +104,6 @@ placeholders along with four subtext captions */
 .imgtext {
     background-color: #F9FAF8;
     color: gray;
-    text-align: center;
     padding: 10px;
 }
 
