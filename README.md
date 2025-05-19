@@ -13,3 +13,7 @@ Only made small incremental progress today, and CSS styling of second section re
 UPDATE (2025-05-19 08:49:47):
 
 Managed to get a bit of code written up before work this morning to get the aligning of the subtext sorted. Still not happy with its sizing, and the boxes are far more spread out than in the example image, but I'm going to sort that under optional tweaking at the end and move on next to section three. I keep reading everywhere that when you're stuck, sometimes you need to put it all down and walk away for a bit. Well, turns out sleeping made everything a little clearer and I was able to see where the alignment issue was straight away. I can't get everything to do exactly what I want it to first try, but that's the learning process I guess. Still feeling positive!
+
+UPDATE (2025-05-19 22:45:23):
+
+I'm sure the part of the page I've been calling "section three" is one of the easiest sections (if not the easiest of them all), but I feel really great to have managed to get it written up and styled in the tiny amount of time I've managed to grab this evening after work. Again, it doesn't look exactly like the example image (my whole page seems to be way wider lol) but I'm still pretty proud of it. Each time I hit save and the live server refreshes, I think I like it more and more, somehow. Only one final section and the footer left...
