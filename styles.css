@@ -151,5 +151,33 @@ h2 {
 
 .sectionfour {
     background-color: #F9FAF8;
-    padding: 50px;
+    padding: 60px;
+}
+
+.boxtext {
+    background-color: #3882f6;
+}
+
+.action {
+    background-color: #3882f6;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.boxsubtext {
+    background-color: #3882f6;
+}
+
+.bluebox {
+    background-color: #3882f6;
+    border-radius: 8px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonborder {
+    border: 2px solid white;
+    width: 250px;
+    font-weight: 700;
 }
