@@ -185,3 +185,7 @@ h2 {
 
 /* Footer */
 
+.footer {
+    text-align: center;
+    margin: 30px;
+}
